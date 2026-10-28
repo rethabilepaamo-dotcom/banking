@@ -1,0 +1,13 @@
+2026-09-29T20:51:34.680907700 | Withdraw Account S001 Amount M690.0
+2026-09-30 09:27:56 | Account: CUR2001 | Type: DEPOSIT | Amount: M200.00 | Balance: M1700.00 | Result: SUCCESS
+2026-09-30 09:35:40 | Account: SAV1001 | Type: INTEREST | Amount: M250.00 | Balance: M5250.00 | Result: SUCCESS - 5% annual interest applied
+2026-09-30 10:33:24 | Account: SA1001 | Type: DEPOSIT | Amount: M400.00 | Balance: M1900.00 | SUCCESS
+2026-09-30 10:38:55 | Account: SA1001 | Type: WITHDRAWAL | Amount: M400.00 | Balance: M1100.00 | SUCCESS
+2026-09-30 11:04:43 | Account: S001 | Type: LOAN REQUEST | Amount: M500.00 | Balance: M1500.00 | Result: APPROVED
+2026-09-30 11:05:11 | Account: S001 | Type: WITHDRAWAL | Amount: M300.00 | Balance: M1200.00 | Result: SUCCESS
+2026-09-30 11:10:15 | Account: S901020592 | Type: INTEREST | Amount: M100.00 | Balance: M2100.00 | Result: SUCCESS
+2026-09-30 11:11:08 | Account: S901020592 | Type: INTEREST | Amount: M105.00 | Balance: M2205.00 | Result: SUCCESS
+2026-09-30 11:11:37 | Account: S901020592 | Type: INTEREST | Amount: M110.25 | Balance: M2315.25 | Result: SUCCESS
+2026-10-21 22:25:56 | Account: S901020592 | Type: LOAN REQUEST | Amount: M500.00 | Balance: M2000.00 | Result: APPROVED
+2026-10-21 22:26:44 | Account: S901020592 | Type: WITHDRAWAL | Amount: M400.00 | Balance: M1600.00 | Result: SUCCESS
+2026-10-25 21:37:57 | Account: S901020592 | Type: WITHDRAWAL | Amount: M4000.00 | Balance: M2000.00 | Result: FAILED - Insufficient funds. Savings account must keep a minimum balance of M100.00.
